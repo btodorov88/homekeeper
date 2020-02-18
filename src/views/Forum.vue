@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1>This is the Home page</h1>
+    <h1>This is the Forum page</h1>
   </div>
 </template>
